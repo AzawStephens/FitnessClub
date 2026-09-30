@@ -8,4 +8,4 @@ Use a web font,
 Define list styles,
 Work with margins and padding space,
 Use pseudo-classes and pseudo-elements,
-Insert page content with CSS,
+and Insert page content with CSS.
